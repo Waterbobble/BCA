@@ -65,13 +65,13 @@ public class ProgramToPrintResultUsingAnyFiveSubject {static void main(String[] 
     percentage= obtainedMarks*100;
     percentage= percentage/totalMarks;
 
-    System.out.println(name);
+    System.out.println("Name: "+name);
     System.out.println(subject1 + ":" + marks1 );
     System.out.println(subject2 + ":" + marks2 );
     System.out.println(subject3 +  ":" + marks3 );
     System.out.println(subject4 + ":" + marks4 );
     System.out.println(subject5 +":" + marks5 );
-    System.out.println("The final percentage of the above mentioned subjects and there score is: " + percentage );
+    System.out.println(name + " has received percentage of : " + percentage );
 
 
 
