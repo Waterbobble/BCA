@@ -28,36 +28,24 @@ public class ProgramToGradeUsingLadderIfStatement {
         System.out.println("Enter the students Name:");
         name=input.nextLine();
 
-        //System.out.println("Enter the first Subject Name:");
-        //subject1=input.nextLine();
 
         System.out.println("Enter the first Subject Score ");
         marks1=input.nextInt();
         input.nextLine();
 
-        //System.out.println("Enter the Second Subject Name:");
-        //subject2=input.nextLine();
 
         System.out.println("Enter the Second Subject Score ");
         marks2=input.nextInt();
         input.nextLine();
 
-       //System.out.println("Enter the Third Subject Name:");
-        //subject3=input.nextLine();
 
         System.out.println("Enter the Third Subject Score ");
         marks3=input.nextInt();
         input.nextLine();
 
-         //System.out.println("Enter the Fourth Subject Name:");
-       //subject4=input.nextLine();
-
         System.out.println("Enter the Fourth Subject Score ");
         marks4=input.nextInt();
         input.nextLine();
-
-      // System.out.println("Enter the Fifth Subject Name:");
-       // subject5=input.nextLine();
 
         System.out.println("Enter the Fifth Subject Score ");
         marks5=input.nextInt();
@@ -67,29 +55,29 @@ public class ProgramToGradeUsingLadderIfStatement {
         percentage= obtainedMarks*100;
         percentage= percentage/totalMarks;
 
-        System.out.println("The obtained percentage is : " + percentage);
+        System.out.println("The obtained percentage by Student: " +name+ " is "+ percentage);
 
         if(percentage>=35){
             if(percentage>=90){
-                System.out.println("You have received Grade: A+");
+                System.out.println(name+" has received Grade: A+");
             }
             else if(percentage>=80){
-                System.out.println("You have received Grade: A");
+                System.out.println(name+ " has received Grade: A");
             }
             else if(percentage>=75){
-                System.out.println("You have received Grade: A-");
+                System.out.println(name+" has received Grade: A-");
             }
             else if(percentage>=70){
-                System.out.println("You have received Grade: B");
+                System.out.println(name+" has received Grade: B");
             }
             else if(percentage>=60){
-                System.out.println("You have received Grade: B-");
+                System.out.println(name+" has received Grade: B-");
             }
             else if(percentage>=35){
-                System.out.println("You have received Grade: C");
+                System.out.println(name+" has received Grade: C");
             }
             else {
-                System.out.println("You have received NQ. ");
+                System.out.println(name+" has received NQ. ");
 
             }
 
