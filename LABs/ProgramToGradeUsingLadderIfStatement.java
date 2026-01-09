@@ -5,22 +5,12 @@ public class ProgramToGradeUsingLadderIfStatement {
     static void main(String[] arg){
 
         String name;
-        String subject1;
         int marks1;
-
-        String subject2;
         int marks2;
-
-        String subject3;
         int marks3;
-
-        String subject4;
         int marks4;
-
-        String subject5;
         int marks5;
-
-       int totalMarks = 500;
+        int totalMarks = 500;
         int obtainedMarks;
         float percentage;
 
