@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\",
+  "WorkspaceRootPath": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|d:\\college related\\coding_env\\web_tech\\dotnet\\web-tech\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|d:\\college related\\coding_env\\bca\\web_tech\\dotnet\\web-tech\\student_list.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|solutionrelative:student_list.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|d:\\college related\\coding_env\\bca\\web_tech\\dotnet\\web-tech\\student_list.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|solutionrelative:student_list.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|d:\\college related\\coding_env\\bca\\web_tech\\dotnet\\web-tech\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|solutionrelative:student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|solutionrelative:student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{593C042B-070C-4B9E-AB73-62587EE5A7B0}|Web-Tech.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-02-18T02:47:04.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Site.Master",
-              "DocumentMoniker": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Site.Master",
-              "RelativeDocumentMoniker": "Site.Master",
-              "ToolTip": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Site.Master",
-              "RelativeToolTip": "Site.Master",
+              "DocumentIndex": 0,
+              "Title": "Student_list.aspx",
+              "DocumentMoniker": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\Student_list.aspx",
+              "RelativeDocumentMoniker": "Student_list.aspx",
+              "ToolTip": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\Student_list.aspx",
+              "RelativeToolTip": "Student_list.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-18T02:06:24.189Z",
+              "WhenOpened": "2026-02-25T02:21:01.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Student.aspx.cs",
-              "DocumentMoniker": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Student.aspx.cs",
+              "DocumentMoniker": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\Student.aspx.cs",
               "RelativeDocumentMoniker": "Student.aspx.cs",
-              "ToolTip": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Student.aspx.cs*",
-              "RelativeToolTip": "Student.aspx.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAABqAAAAAAAAAA==",
+              "ToolTip": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\Student.aspx.cs",
+              "RelativeToolTip": "Student.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T02:30:44.772Z",
+              "WhenOpened": "2026-02-25T02:13:24.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.aspx",
-              "DocumentMoniker": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Student.aspx",
-              "RelativeDocumentMoniker": "Student.aspx",
-              "ToolTip": "D:\\College Related\\Coding_Env\\Web_Tech\\DotNet\\Web-Tech\\Student.aspx",
-              "RelativeToolTip": "Student.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-18T02:09:32.589Z",
+              "Title": "Student_list.aspx.cs",
+              "DocumentMoniker": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\Student_list.aspx.cs",
+              "RelativeDocumentMoniker": "Student_list.aspx.cs",
+              "ToolTip": "D:\\College Related\\Coding_Env\\BCA\\Web_Tech\\DotNet\\Web-Tech\\Student_list.aspx.cs",
+              "RelativeToolTip": "Student_list.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T02:12:04.187Z",
               "EditorCaption": ""
             }
           ]
