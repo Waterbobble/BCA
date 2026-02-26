@@ -9,6 +9,7 @@ int main (void){
     node first_node,second_node,third_node,fourth_node;
     first_node.pointer2next=&second_node;
     second_node.pointer2next=&third_node;
+    third_node.pointer2next=&fourth_node;
     fourth_node.pointer2next=NULL;
     
 }
